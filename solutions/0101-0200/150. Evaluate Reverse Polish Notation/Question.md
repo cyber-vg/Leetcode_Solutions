@@ -37,3 +37,7 @@ Explanation: ((10 * (6 / ((9 + 3) * -11))) + 17) + 5
 
 - 1 <= tokens.length <= 104
 - tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the range [-200, 200].
+
+---
+
+Copyright ©️ 2022 LeetCode All rights reserved
